@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>건강피드 - 체온관리</description>
+   <name>02_health_feed_temperature</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>50ca6e46-dc3c-4c03-85e3-716900ecebcd</testCaseGuid>
+</TestCaseEntity>

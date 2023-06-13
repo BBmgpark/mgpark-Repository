@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>주소설정 - 주소 선택</description>
+   <name>03_adress_setting_edit_select</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5cc80ebb-038b-4d0e-8ab5-77c696821b00</testCaseGuid>
+</TestCaseEntity>

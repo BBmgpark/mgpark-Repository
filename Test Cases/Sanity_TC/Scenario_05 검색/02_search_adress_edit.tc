@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>검색 - 주소 설정</description>
+   <name>02_search_adress_edit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ff54bb5d-8549-4cfe-a610-af783cd2178e</testCaseGuid>
+</TestCaseEntity>

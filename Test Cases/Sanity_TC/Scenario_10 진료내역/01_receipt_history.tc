@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>진료내역</description>
+   <name>01_receipt_history</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e33c3192-0b9b-43c1-94f6-edce99d36831</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>예약 - 취소</description>
+   <name>03_reservation_cancel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4eff439d-07d8-42bc-96bd-3c4b1fd9f0b1</testCaseGuid>
+</TestCaseEntity>

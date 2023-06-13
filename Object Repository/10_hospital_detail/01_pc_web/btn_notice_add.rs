@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>[공지사항 등록]</description>
+   <name>btn_notice_add</name>
+   <tag></tag>
+   <elementGuidId>93c49700-24ad-4c55-9dc7-087dcb3be691</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/app-layout-container/div[2]/app-hospital-info-notices-page/app-hospital-notice-list/div/div[1]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/app-layout-container/div[2]/app-hospital-info-notices-page/app-hospital-notice-list/div/div[1]/div/button</value>
+      <webElementGuid>a82c2904-923b-455a-a78c-87d16bf9f499</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0a9fe306-2ce4-42e6-84db-9203d3e3a8b9</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

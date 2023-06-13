@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>개인정보 수정</description>
+   <name>01_mypage_privacy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9803fe7c-fecc-4aff-9e5f-e15c156ce496</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>접수 - 자녀</description>
+   <name>02_receipt_family</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>14244a4a-57d7-49e3-a733-5a00f723bb46</testCaseGuid>
+</TestCaseEntity>

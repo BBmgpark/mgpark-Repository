@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>찜한목록 - 화면 진입</description>
+   <name>01_home_favorits_page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f3d3ba8f-96ef-4dfd-9dbe-b5336f443133</testCaseGuid>
+</TestCaseEntity>

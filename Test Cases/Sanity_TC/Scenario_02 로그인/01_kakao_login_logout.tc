@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>카카오 로그인</description>
+   <name>01_kakao_login_logout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f6091b77-d43c-4916-993d-179a98cbe5c4</testCaseGuid>
+</TestCaseEntity>

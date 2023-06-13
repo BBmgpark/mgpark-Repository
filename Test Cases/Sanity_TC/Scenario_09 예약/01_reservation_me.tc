@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>예약 - 본인</description>
+   <name>01_reservation_me</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>116e6505-8fa3-4545-b1e7-a663358dae1e</testCaseGuid>
+</TestCaseEntity>

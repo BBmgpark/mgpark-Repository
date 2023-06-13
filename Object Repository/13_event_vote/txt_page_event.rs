@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description>이벤트/투표 > 타이틀</description>
+   <name>txt_page_event</name>
+   <tag></tag>
+   <elementGuidId>8b46baf7-a104-4820-8c80-bf0def3e087a</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>package</name>
+      <type>Main</type>
+      <value>com.bbros.sayup</value>
+      <webElementGuid>7f4996ab-9177-404c-8d27-c1cef4738f94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>index</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>48f8522c-af84-44ee-abd9-c1089b4da8e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>android.widget.TextView</value>
+      <webElementGuid>4e8007f8-0da4-4aed-b959-05ce844588f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>이벤트·투표</value>
+      <webElementGuid>a8064d74-0c67-41c4-9bbe-aa1d041fa449</webElementGuid>
+   </webElementProperties>
+   <locator>//*[@package = 'com.bbros.sayup' and @index = '1' and @class = 'android.widget.TextView' and (@text = '이벤트·투표' or . = '이벤트·투표')]</locator>
+   <locatorStrategy>ATTRIBUTES</locatorStrategy>
+</MobileElementEntity>

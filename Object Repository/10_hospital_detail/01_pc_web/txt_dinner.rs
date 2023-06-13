@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>저녁시간</description>
+   <name>txt_dinner</name>
+   <tag></tag>
+   <elementGuidId>e128d8aa-bade-46c4-bec9-b9909a505da3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/app-layout-container/div[2]/app-hospital-info-schedule-page/app-operating-time-list/div/div/div[2]/app-card-time-table[2]/div/div[2]/table/tr[2]/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/app-layout-container/div[2]/app-hospital-info-schedule-page/app-operating-time-list/div/div/div[2]/app-card-time-table[2]/div/div[2]/table/tr[2]/td</value>
+      <webElementGuid>e7cfa2cf-6c75-4fe0-bffb-26f29b22c66f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

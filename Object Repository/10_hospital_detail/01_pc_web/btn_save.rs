@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>[저장]</description>
+   <name>btn_save</name>
+   <tag></tag>
+   <elementGuidId>80736221-dc72-45d8-bd65-30a34436ed57</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@class = 'btn ha-btn ha-btn-spec' and (contains(text(), '저장') or contains(., '저장'))]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn ha-btn ha-btn-spec</value>
+      <webElementGuid>754a8e1b-acda-4440-853f-e457810f5304</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>저장</value>
+      <webElementGuid>e1c27a08-7f17-4253-8d76-5de1ae734905</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e465688f-882b-4fae-abdc-fcc00ab3267c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

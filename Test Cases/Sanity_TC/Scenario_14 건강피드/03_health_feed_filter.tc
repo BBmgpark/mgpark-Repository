@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>건강피드 - 필터 확인</description>
+   <name>03_health_feed_filter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7914a53-bf4d-49ec-a54e-f81b45ce47d3</testCaseGuid>
+</TestCaseEntity>

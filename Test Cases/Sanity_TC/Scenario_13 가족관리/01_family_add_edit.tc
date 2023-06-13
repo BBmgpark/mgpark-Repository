@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>가족관리 - 자녀 추가/삭제</description>
+   <name>01_family_add_edit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c04cff5e-3eb9-4897-8b8a-91520e25adb6</testCaseGuid>
+</TestCaseEntity>

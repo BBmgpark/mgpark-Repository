@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>월요일</description>
+   <name>txt_monday</name>
+   <tag></tag>
+   <elementGuidId>10901aff-190c-4bc7-9741-c6af394cec33</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/app-layout-container/div[2]/app-hospital-info-schedule-page/app-operating-time-list/div/div/div[1]/app-card-time-table/div/div[2]/table/tr[1]/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/app-layout-container/div[2]/app-hospital-info-schedule-page/app-operating-time-list/div/div/div[1]/app-card-time-table/div/div[2]/table/tr[1]/td</value>
+      <webElementGuid>20e00253-cbf9-4655-b25a-f9c5971767cc</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

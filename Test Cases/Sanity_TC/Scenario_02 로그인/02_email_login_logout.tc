@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>이메일 로그인</description>
+   <name>02_email_login_logout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fca40ef8-c28d-444e-a5de-a26731bedf78</testCaseGuid>
+</TestCaseEntity>

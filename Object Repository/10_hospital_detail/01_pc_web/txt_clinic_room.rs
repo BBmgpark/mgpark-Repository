@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>진료실</description>
+   <name>txt_clinic_room</name>
+   <tag></tag>
+   <elementGuidId>d3caeffe-49a9-4c5a-9265-6174d4137041</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/app-layout-container/div[2]/app-mobile-schedule-page/div/app-care-room-list-page/div[1]/div[1]/span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/app-layout-container/div[2]/app-mobile-schedule-page/div/app-care-room-list-page/div[1]/div[1]/span[1]</value>
+      <webElementGuid>241bbf8e-4a50-4019-a29f-5bf596d39ee6</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>이벤트/투표</description>
+   <name>01_event_vote</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fc89db0e-f3a9-4212-9abf-8aa1a2bf8896</testCaseGuid>
+</TestCaseEntity>

@@ -1,6 +1,2 @@
-
-/bin/
-/Libs/
-/.settings/
-/.classpath
-.svn/
+appium.log
+Reports/

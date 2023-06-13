@@ -4,4 +4,114 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>앱ID</description>
+      <initValue>'com.bbros.sayup'</initValue>
+      <name>appid</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>고정된 시간</description>
+      <initValue>3</initValue>
+      <name>fixedTime</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>apk path</description>
+      <initValue>'C:\\apk\\app.apk'</initValue>
+      <name>apk</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'박명근'</initValue>
+      <name>user_name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>이메일 아이디</description>
+      <initValue>'qa20@qa.com'</initValue>
+      <name>email_id</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>이메일 패스워드</description>
+      <initValue>'qwer1234!'</initValue>
+      <name>email_password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>자동화 게정 (기록o)</description>
+      <initValue>'qa22@qa.com'</initValue>
+      <name>email_id_22</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>자동화 계정 (기록x)</description>
+      <initValue>'qa21@qa.com'</initValue>
+      <name>email_id_21</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>집 주소</description>
+      <initValue>'경기 부천시 부흥로 49 (상동, 백송마을) '</initValue>
+      <name>my_adress</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>주소 이름</description>
+      <initValue>'상동'</initValue>
+      <name>adress_name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>우편번호</description>
+      <initValue>'(14591)'</initValue>
+      <name>zip_code</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>생년월일</description>
+      <initValue>'860816'</initValue>
+      <name>user_birth_date</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>병원명</description>
+      <initValue>'[TEST] 똑닥가정의학과의원'</initValue>
+      <name>hospital_name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>타이틀 문구</description>
+      <initValue>'테스트'</initValue>
+      <name>test_title</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>의사</description>
+      <initValue>''</initValue>
+      <name>doctor</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'아들'</initValue>
+      <name>son</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>예약일</description>
+      <initValue>''</initValue>
+      <name>reservation_day</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>휴대폰번호</description>
+      <initValue>'010-4039-6826'</initValue>
+      <name>hp</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>아들 생년월일</description>
+      <initValue>'230301'</initValue>
+      <name>son_birth_date</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>마이페이지 > 버전정보</description>
+      <initValue>'버전 v9.9.2'</initValue>
+      <name>version</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>가족관리 화면 </description>
+      <initValue>'2023년 03월 01일 (남)'</initValue>
+      <name>son_info</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>카카오 계정 자녀</description>
+      <initValue>''</initValue>
+      <name>kakao_son</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

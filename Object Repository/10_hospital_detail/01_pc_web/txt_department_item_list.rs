@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>진료항목</description>
+   <name>txt_department_item_list</name>
+   <tag></tag>
+   <elementGuidId>3b39e6e4-aaec-4b5c-92d5-d4b706107b6e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/app-layout-container/div[2]/app-hospital-info-container/div/div/app-hospital-info-set/form/section[2]/table/tr/td[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/app-layout-container/div[2]/app-hospital-info-container/div/div/app-hospital-info-set/form/section[2]/table/tr/td[2]/div/div</value>
+      <webElementGuid>4a50e653-6920-4393-a8d5-19cf4499ace1</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
